@@ -1,0 +1,16 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "This is express js tutorial",
+  "license": "ISC",
+  "author": "Maninder Singh",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.2.1"
+  }
+}
